@@ -31,7 +31,7 @@ This Weather App provides real-time weather information for various cities using
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Weather-Monitoring-System-main
+   cd Real-Time-Data-Processing-System
    ```
 3. Open `index.html` in your preferred web browser.
 
